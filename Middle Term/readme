@@ -1,3 +1,7 @@
+*Making Curve using Lagrange, Bezier, Cubic Hermite, and Cubic Spline Interpolation*
+
+![Image description](https://kowondongseoackr-my.sharepoint.com/:i:/g/personal/d0185116_kowon_dongseo_ac_kr/ESRe5BRxAHBGrQ_ozYg8nw8BXLBiMlL7vi-FxP0AgndB3g?e=S2T1Kh)
+
 Control tips:
 - Double click on the point to move point or time point (if you show curve using lagrange polynomial interpolation)
 - Single click on the point to highlight point and show delete button
