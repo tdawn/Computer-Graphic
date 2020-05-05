@@ -1,6 +1,6 @@
 Control tips:
-- Double click to move point/time point, if you show curve using lagrange polynomial interpolation
-- Single click to highlight point and show delete button
+- Double click on the point to move point/time point, if you show curve using lagrange polynomial interpolation
+- Single click on the point to highlight point and show delete button
 
 Source:
 https://docs.google.com/document/d/1P5sw_GTeO1074b7VugKLQXGy23JcZ8JiLATaScqNBQE/edit (lecture materials)
