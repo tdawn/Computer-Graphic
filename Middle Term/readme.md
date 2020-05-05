@@ -1,4 +1,5 @@
-# Making Curve using Lagrange, Bezier, Cubic Hermite, and Cubic Spline Interpolation
+# Polynomial Curve Implementation in Pygame
+## Algorithms: Lagrange, Bezier, Cubic Hermite, and Cubic Spline Interpolation
 
 ![snapshot](https://user-images.githubusercontent.com/15272829/81061488-68938080-8f0f-11ea-98c8-f2545ab8dafe.png)
 
